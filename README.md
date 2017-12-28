@@ -6,4 +6,5 @@ Notification Sample for Android
 
 
 [Patterns– Notifications](https://material.io/guidelines/patterns/notifications.html#)
+
 [android-NotificationChannels](https://github.com/googlesamples/android-NotificationChannels)
